@@ -1,0 +1,24 @@
+ {
+    "login": {
+      "submitButton": "input[value=Авторизоваться]"
+    },
+    "admin": {
+      "successLoginText": "Управление залами",
+      "filmCard": ".conf-step__movie[data-film-id=131]",
+      "filmTitle": ".conf-step__movie-title"
+    },
+    "client": {
+      "filmContainer": ".movie",
+      "vipHall": "Вип зал",
+      "seanceTime": ".movie-seances__time",
+      "filmTitleText": "Ведьмак",
+      "bookButton": ".acceptin-button",
+      "bookingConfirmationText": "Вы выбрали билеты:"
+    },
+    "seats": {
+      "seatWrapper": ".buying-scheme__wrapper"
+    },
+    "selectorEmail": "input[placeholder='example@domain.xyz']",
+    "selectorPassword" : "input[name='password']"
+  }
+
